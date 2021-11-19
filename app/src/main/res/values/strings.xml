@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BiodataSederhana</string>
+    <string name="photo_profil_mahasiswa">photo profil mahasiswa</string>
+    <string name="Fajar_Ammar_HS">Fajar Ammar HS</string>
+    <string name="a11_2018_11228">A11.2018.11228</string>
+    <string name="solving_problem">Solving Problem</string>
+    <string name="mahasiswa_ti">Mahasiswa TI</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="alamat">Alamat</string>
+    <string name="kontak">Kontak</string>
+    <string-array name="properti_biodata">
+        <item>Nama : Fajar Ammar HS</item>
+        <item>NIM : A11.2018.11228</item>
+        <item>Hobi : Mengikuti perkembangan teknologi</item>
+        <item>Deskripsi singkat : Mahasiswa yang kini mendalami PHP dan MySQL</item>
+    </string-array>
+</resources>
